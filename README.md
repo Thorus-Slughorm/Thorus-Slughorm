@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thorus-Slughorm
 - 👀 I’m interested in Artificial intelligence and Machine learning
-- 🌱 I’m currently learning c programming,c++, python
+- 🌱 I’m currently learning linux kali , java , javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
 
