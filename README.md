@@ -16,8 +16,8 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/tanish-dogra/**
 
-![Contributions](https://github-readme-stats.vercel.app/api?username=thorus-slughorm&theme=algolia&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thorus-slughorm&theme=tokyonight)
+![Contributions](https://github-readme-stats.vercel.app/api?username=Thorus-slughorm&theme=algolia&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thorus-slughorm&theme=tokyonight)
 <!---
 Thorus-Slughorm/Thorus-Slughorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
