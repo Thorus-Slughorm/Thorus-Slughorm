@@ -10,7 +10,7 @@
   <a href="https://twitter.com/" target="_blank"> 
     <img src="https://img.shields.io/twitter/follow/thorus-slughorm?style=social" alt="Twitter Follow">
   </a>
-  <a href="https://linktr.ee/Garvit46" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Contact-Me-green" alt="Contact Me">
   </a>
 </p>
