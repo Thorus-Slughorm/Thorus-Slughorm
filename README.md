@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Data Science Animation" width="200">
+ 
 </p>
 
 <h1 align="center">👋 Hello, I'm Tanish Dogra</h1>
