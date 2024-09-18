@@ -6,9 +6,9 @@
 <h3 align="center">🚀 Passionate Data Scientist | Machine Learning Enthusiast </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Garvitjoshi1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-  <a href="https://twitter.com/garvitjoshi01" target="_blank"> 
-    <img src="https://img.shields.io/twitter/follow/garvitjoshi01?style=social" alt="Twitter Follow">
+  <img src="https://komarev.com/ghpvc/?username=thorus-slughorm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <a href="https://twitter.com/" target="_blank"> 
+    <img src="https://img.shields.io/twitter/follow/thorus-slughorm?style=social" alt="Twitter Follow">
   </a>
   <a href="https://linktr.ee/Garvit46" target="_blank">
     <img src="https://img.shields.io/badge/Contact-Me-green" alt="Contact Me">
