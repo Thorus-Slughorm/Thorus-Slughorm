@@ -44,8 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garvitjoshi1&theme=algolia&show_icons=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvitjoshi1&theme=algolia&layout=compact" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=thorus-slughorm&theme=algolia&show_icons=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorus-slughorm&theme=algolia&layout=compact" alt="Top Languages" height="165">
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Garvitjoshi1&theme=algolia&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=thorus-slughorm&theme=algolia&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://twitter.com/garvitjoshi01" target="_blank">
+  <a href="https://twitter.com/tanish-dogra" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://www.linkedin.com/in/tanish-dogra/" target="_blank">
@@ -72,29 +72,3 @@
 
 <h3 align="center">💼 Open to exciting data science opportunities! Let's collaborate and build something amazing together!</h3>
 
-<h1 align="center">Hi 👋, I'm  Tanish Dogra </h1>
-<h3 align="center">Data Science And Software Developer Enthusiast </h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thorus-Slughorm&label=Profile%20views&color=0e75b6&style=flat" alt="Thorus-Slughorm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thorus-Slughorm" alt="Thorus-Slughorm" /></a> </p>
-
-
-- 🌱 I’m currently learning **Data Science, Machine Learning**
-
-- 💬 Ask me about **Python, Data Analysis , Java , Html , Css , Sql Tableau**
-
-- 📫 How to reach me **https://www.linkedin.com/in/tanish-dogra/**
-
-![Contributions](https://github-readme-stats.vercel.app/api?username=Thorus-Slughorm&theme=algolia&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thorus-Slughorm&theme=tokyonight)
-<!---
-Thorus-Slughorm/Thorus-Slughorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thorus-Slughorm&show_icons=true&locale=en&layout=compact" alt="Thorus-Slughorm" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Thorus-Slughorm&show_icons=true&locale=en" alt="Thorus-Slughorm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thorus-Slughorm&" alt="Thorus-Slughorm" /></p>
