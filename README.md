@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Passionate Data Scientist | Machine Learning Enthusiast </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thorus-slughorm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Tanish7Dogra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
   <a href="https://twitter.com/" target="_blank"> 
     <img src="https://img.shields.io/twitter/follow/thorus-slughorm?style=social" alt="Twitter Follow">
   </a>
